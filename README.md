@@ -142,6 +142,3 @@ The repository includes comprehensive visualization capabilities:
 - Task performance heatmaps
 - ROC curves for all toxicity endpoints
 ---
-
-**Keywords**: Graph Neural Networks, Toxicity Prediction, Multi-Task Learning, Graph Attention Networks, Computational Chemistry, Drug Discovery, Machine Learning, Deep Learning, Molecular Modeling</content>
-<parameter name="filePath">README.md
