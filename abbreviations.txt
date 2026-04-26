@@ -1,0 +1,12 @@
+NR-AR: Nuclear Receptor – Androgen Receptor
+NR-AR-LBD: Nuclear Receptor – Androgen Receptor Ligand Binding Domain
+NR-AhR: Nuclear Receptor – Aryl hydrocarbon Receptor
+NR-Aromatase: Nuclear Receptor – Aromatase
+NR-ER: Nuclear Receptor – Estrogen Receptor
+NR-ER-LBD: Nuclear Receptor – Estrogen Receptor Ligand Binding Domain
+NR-PPAR-gamma: Nuclear Receptor – Peroxisome Proliferator-Activated Receptor Gamma
+SR-ARE: Stress Response – Antioxidant Response Element
+SR-ATAD5: Stress Response – ATAD5 (ATPase family AAA domain-containing protein 5)
+SR-HSE: Stress Response – Heat Shock Element
+SR-MMP: Stress Response – Mitochondrial Membrane Potential
+SR-p53: Stress Response – p53 (tumor suppressor protein)
